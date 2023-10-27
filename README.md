@@ -1,9 +1,9 @@
 # ARK: Survival Ascended
-Okuchi Yorozu MemberShip Only
+億千よろずのメンバーシップ**地球人さん以上**特典の視聴者参加型サーバになります。
 
 ## 参加条件
-- 直近1ヶ月以内に**地球人さん**以上のメンバーシップに入っていること。
-- キャラクター名がメンバーシップ加入YouTubeアカウントと同じか、わかること。
+- 直近1ヶ月以内に**地球人さん以上**のメンバーシップに入っていること。
+- キャラクター名がメンバーシップ加入YouTubeアカウントと同じか、同一人物であるとわかりやすいこと。
 
 ## 注意事項
 - このサーバーは、基本的には参加者同士協力して楽しむPvEサーバーです。
@@ -18,16 +18,16 @@ Okuchi Yorozu MemberShip Only
 - ヤバイ人はメンバーシップに入っていても余裕でBANされます。
 
 ## 事前準備
-- Steamの[ARK: Survival Ascendedページ](https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/)でシステム要件を確認してスペックが足りていることを確認する
-  - 最悪のケースに備えて、[返品リクエスト](https://store.steampowered.com/steam_refunds/?l=japanese)も確認しておきましょう
-- SteamでARK: Survival Ascended を購入し、インストールする
+- Steamの[ARK: Survival Ascendedページ](https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/)でシステム要件を確認してスペックが足りていることを確認する。
+  - 念のため、[返品リクエスト](https://store.steampowered.com/steam_refunds/?l=japanese)の手順も確認しておくと良いです。
+- SteamでARK: Survival Ascended を購入し、インストールする。
 
 ## ログイン手順
-1. ARK: Survival Ascendedクライアントを起動する
-2. [join game] を選ぶ
-3. [UNOFFICIAL] を選ぶ
-4. Okuchi Yorozu MemberShip Onlyを選択して [開始] ボタンをクリックする
-5. パスワードを入力して [決定] をクリックする（パスワードは毎月、 [Yorozu Ch. 億千よろずのコミュニティ](https://www.youtube.com/@okuchiyorozu/community) で共有されます）  
+1. ARK: Survival Ascendedクライアントを起動する。
+2. **[join game]** を選ぶ。
+3. **[UNOFFICIAL]** を選ぶ。
+4. **Okuchi Yorozu MemberShip Only**を選択して [開始] ボタンをクリックする。
+5. パスワードを入力して **[決定]** をクリックする（パスワードは毎月、 [Yorozu Ch. 億千よろずのコミュニティ](https://www.youtube.com/@okuchiyorozu/community) で共有されます）。 
 
 ## マップ
 ### The Island
