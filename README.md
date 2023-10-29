@@ -26,8 +26,9 @@
 1. ARK: Survival Ascendedクライアントを起動する。
 2. **[join game]** を選ぶ。
 3. **[UNOFFICIAL]** を選ぶ。
-4. **Okuchi Yorozu MemberShip Only**を選択して [開始] ボタンをクリックする。
-5. パスワードを入力して **[決定]** をクリックする（パスワードは毎月、 [Yorozu Ch. 億千よろずのコミュニティ](https://www.youtube.com/@okuchiyorozu/community) で共有されます）。 
+4. **SHOW PASSWORD PROTECTED SERVERS**に✔を入れる。
+5. **Okuchi Yorozu MemberShip Only**を検索して [開始] ボタンをクリックする。
+6. パスワードを入力して **[決定]** をクリックする（パスワードは毎月、 [Yorozu Ch. 億千よろずのコミュニティ](https://www.youtube.com/@okuchiyorozu/community) で共有されます）。 
 
 ## マップ
 ### The Island
